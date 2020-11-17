@@ -1,0 +1,2 @@
+# kucinganjing
+aplikasi sederhana
